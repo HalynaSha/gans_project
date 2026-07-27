@@ -24,6 +24,9 @@ Gans is an e-scooter-sharing company. This project builds an ETL pipeline that c
 * `airports`
 * `flights`
 
+  <img width="862" height="771" alt="image" src="https://github.com/user-attachments/assets/7c972fc0-777e-4bf0-9ffb-82fb25ecf1db" />
+
+
 The tables are connected using city identifiers to support efficient querying and analysis.
 
 ## Technologies used
